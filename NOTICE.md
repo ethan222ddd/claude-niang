@@ -8,7 +8,14 @@ Claude 娘額度挂件是獨立的社群專案，與 Anthropic 沒有任何隸�
 
 ## 參考
 
-互動設計參考 GPT 娘額度挂件（Codex 版）。本專案的程式碼、角色圖、語錄與音效都是重新製作，沒有複製 GPT 娘或其上游的圖片、語錄或音效。
+互動設計參考 GPT 娘額度挂件（Codex 版）。本專案的程式碼、角色圖與音效都是重新製作，沒有複製 GPT 娘或其上游的圖片或音效。
+
+內建語錄大多為本專案原創，另有 3 句改寫自其他專案（簡轉繁）：
+
+- 「檢查了用戶的電腦。似乎有個更弱的 agent 來過。」「Token來Token來 🖐️😡🤚」：GPT 娘額度挂件（T7moris，MIT）
+- 「不知道用戶有什麼用，先養著吧～」：[DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)（Copyright (c) 2026 MeteorNOX，MIT）
+
+這 3 句依原專案的 MIT 授權使用，版權仍屬原作者。
 
 ## 程式碼
 
