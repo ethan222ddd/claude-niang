@@ -1,0 +1,8 @@
+/build/
+**/state/
+*.exe
+*.pdb
+*.dll
+*.tmp
+Thumbs.db
+desktop.ini
